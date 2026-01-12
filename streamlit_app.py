@@ -45,4 +45,4 @@ if ingredients_list:
 
         st.success('Your Smoothie is ordered, '+name_on_order+'!', icon="✅")
 
-import requests
+#import requests
